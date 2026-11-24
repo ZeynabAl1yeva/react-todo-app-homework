@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 40px 15px;
+  font-family: Helvetica, sans-serif;
+  background-color: #f9effd;
+  color: #1a1a2e;
+}
